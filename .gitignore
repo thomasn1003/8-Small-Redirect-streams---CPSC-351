@@ -1,0 +1,10 @@
+# Ignore executable
+redir
+
+# Ignore object files, core dumps, and other build artifacts
+*.o
+*.out
+*.exe
+*.log
+*.swp
+.DS_Store
